@@ -8,7 +8,7 @@ his repository contains the OSeMOSYS Lao PDR Whole Energy System Model (WESM), d
 
 | Version | Date    | DOI                                                                                                        | Description                                                                                   |
 |---------|---------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 0.1.0   | 12/2023 |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11103010.svg)](https://doi.org/10.5281/zenodo.11103010) |First release of the model based on the PBFL Southern Partners; Fund project.| 
+| 0.1.0   | 12/2023 |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11103010.svg)](https://doi.org/10.5281/zenodo.11103010) |First release of the model based on the PBFL Southern Partners Fund project.| 
 
 ### Acknowledgements
 This material has been produced with support from the Climate Compatible Growth (CCG) programme. CCG is funded by UK AID from the UK Government. Views expressed herein do not necessarily reflect the UK government's official policies.
