@@ -1,2 +1,1 @@
-# OSeMOSYS-Lao-PDR-WESM
-Whole Energy Systems model (WESM) of Lao PDR
+# OSeMOSYS-Lao-PDR-Whole Energy Systems model
