@@ -1,5 +1,5 @@
 ================
-Model Structure
+1. Model Structure
 ================
 
 General Model Structure
