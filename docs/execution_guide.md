@@ -86,11 +86,9 @@ run it you will need:
 :class: tip
 The runs behind this study were produced through the **MUIO** graphical interface,
 and the model can be built and run that way. MUIO uses its own representation of the
-model, which is a **different file** from the MathProg formulation distributed here:
+model, which is a **different file** from the MathProg formulation (scenario data files) distributed here:
 the **MUIO-compatible model file is available from the authors on request** (see the
-author list in {doc}`references`). Note that `WESM/OSeMOSYS_Model_MUIO_Ver5.4.txt` in
-this repository, despite its name, is the MathProg formulation - the same model as
-`data/model.v.5.4.txt`. Running `model.v.5.4.txt` with GLPK as described below is the
+author list in {doc}`references`). Running `model.v.5.4.txt` with GLPK as described below is the
 equivalent command-line route and needs no MUIO installation.
 ```
 
@@ -156,15 +154,7 @@ across users:
 - Always verify a headline number against the raw result variable before quoting or
   plotting it, rather than relying on an intermediate aggregate.
 
-## 5.6 Post-processing and figures
-
-A set of Python scripts turns the raw result variables into the figures used in the
-article and its Supplementary Material. To keep the scripts portable, they read the
-results directory from an environment variable (for example `RESULTS_DIR`) rather
-than a hard-coded path, so the same scripts run against a local solve or a downloaded
-result archive.
-
-## 5.7 Reproducing the full study
+## 5.6 Reproducing the full study
 
 To reproduce the whole analysis rather than a single scenario, run all **27
 scenarios** (S1-S27) plus the two hydrology sensitivities (S28, S29) — that is, all
