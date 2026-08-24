@@ -29,8 +29,7 @@ OSeMOSYS-Lao-PDR-WESM/
 
 | Version | Date    | DOI | Description |
 | ------- | ------- | --- | ----------- |
-| 0.1.0   | 12/2023 | [10.5281/zenodo.11103010](https://doi.org/10.5281/zenodo.11103010) | First release, based on the PBFL Southern Partners Fund project. |
-| **2.0.0** | **TBD 2026** | **`TBD`: mint on Zenodo and paste the DOI badge here** | Whole-energy-system model regenerated from the latest run; adds transport, industrial heat and cooking, the 3x3x3 Trade x Carbon x Cooking scenario matrix, and household-air-pollution (DALY) accounting. Supports the ERL article. |
+| **2.0.0** | **TBD 2026** | **`TBD`: mint on Zenodo and paste the DOI badge here** | Whole-energy-system model regenerated from the latest run; adds transport, industrial heat and cooking, the 3x3x3 Trade x Carbon x Cooking scenario matrix, and household-air-pollution (DALY) accounting. |
 
 <!--
 To add the version-2 DOI badge after minting on Zenodo, replace the TBD cell above
