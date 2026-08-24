@@ -53,9 +53,9 @@ unzip data/data_files_S1_S29.zip -d data/scenario_data
 glpsol -m data/model.v.5.4.txt -d data/scenario_data/data_file_S4.txt -o results_S4.txt
 ```
 
-The model can also be run through the **MUIO** interface. The same formulation is
-committed as `WESM/OSeMOSYS_Model_MUIO_Ver5.4.txt` under its MUIO name; the MUIO
-**project workspace** itself is available from the authors on request. See the
+The model can also be run through the **MUIO** interface; the MUIO-compatible version
+of the model file is a different file and is available **from the authors on
+request**. See the
 [Execution and reproduction guide](https://osemosys-lao-pdr-wesm.readthedocs.io/en/latest/execution_guide.html)
 for the full workflow.
 
