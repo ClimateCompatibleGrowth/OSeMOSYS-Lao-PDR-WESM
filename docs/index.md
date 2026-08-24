@@ -7,6 +7,18 @@ system, spanning electricity generation and trade, transport, industrial heat,
 and residential and commercial cooking, over the period **2023 to 2055**, with
 results reported to **2050**.
 
+```{figure} _static/figures/intro_map_baseline.png
+:alt: Map of Lao PDR's three modelled regions with 2023 capacity, and the baseline energy flows
+:width: 100%
+:align: center
+
+**Lao PDR's energy system in the 2023 base year.** *(A)* The three modelled regions -
+North, Central and South - with installed generating capacity by source; pie area is
+proportional to total GW. *(B)* The pattern the model is built to interrogate: about
+two-thirds of electricity generated is exported, essentially all liquid fuel is
+imported, and roughly 97% of cooking energy is still solid biomass.
+```
+
 The model was developed within the
 [Climate Compatible Growth (CCG)](https://climatecompatiblegrowth.com/) programme,
 and underpins the research article *"Export clean, but live dirty: reconciling

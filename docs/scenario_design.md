@@ -76,6 +76,20 @@ scenarios (S1-S27)**. A factorial design (rather than moving one lever at a time
 what lets the analysis separate each lever's main effect from the interactions
 between levers.
 
+```{figure} _static/figures/scenario_design.png
+:alt: The 27 scenarios as points in a cube spanned by the Trade, Carbon and Cooking levers
+:width: 100%
+:align: center
+
+**The scenario space.** Each of the 27 scenarios is one point in the cube spanned by
+the three levers - Trade (T), Carbon policy (M) and Cooking policy (C) - each set at
+level 1, 2 or 3. Colour denotes the trade level: red T1 (IPP export as usual), orange
+T2 (partial domestic priority), green T3 (full domestic priority). The six labelled
+corners are the scenarios the analysis returns to most often, including **S1**
+(T1 M1 C1, the baseline), **S4** (T2 M2 C2, the achievable midpoint) and **S5**
+(T3 M3 C3, the most ambitious).
+```
+
 ```{list-table}
 :header-rows: 1
 :widths: 12 22 12 22 12 20
