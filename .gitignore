@@ -1,0 +1,25 @@
+# Sphinx build output
+docs/_build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+.idea/
+.vscode/
+
+# OSeMOSYS / solver run artefacts (keep the repo light)
+*.sol
+*.lp
+*.mps
+*.pickle
+
+# Large local result dumps (share via Zenodo, not git)
+results_raw/
