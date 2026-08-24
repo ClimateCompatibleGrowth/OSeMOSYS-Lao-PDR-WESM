@@ -30,8 +30,9 @@ glpsol -m model.v.5.4.txt -d scenario_data/data_file_S4.txt -o results_S4.txt
 
 Each scenario builds a problem of roughly 530,000 rows and 440,000 columns, so expect
 a ~230 MB LP and a ~115 MB result file per run. The model can also be run through the
-**MUIO** interface; the MUIO-compatible version of the model file is available **from
-the authors on request**. See the
+**MUIO** interface; the same formulation is committed as
+`../WESM/OSeMOSYS_Model_MUIO_Ver5.4.txt` under its MUIO name, while the MUIO project
+workspace itself is available from the authors on request. See the
 [Execution and reproduction guide](https://osemosys-lao-pdr-wesm.readthedocs.io/en/latest/execution_guide.html)
 for the full workflow.
 

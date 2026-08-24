@@ -85,12 +85,14 @@ run it you will need:
 ```{admonition} Running the model through the MUIO interface
 :class: tip
 The runs behind this study were produced through the **MUIO** graphical interface,
-and the model can be built and run that way. MUIO uses its own internal
-representation of the model, so the plain MathProg file distributed here is not the
-one it loads: the **MUIO-compatible version of the model file is available from the
-authors on request** (see the author list in {doc}`references`). Running
-`model.v.5.4.txt` with GLPK as described below is the equivalent command-line route
-and needs no MUIO installation.
+and the model can be built and run that way. The same formulation is also committed
+as `WESM/OSeMOSYS_Model_MUIO_Ver5.4.txt` under the name it carries in MUIO; it is
+identical to `data/model.v.5.4.txt` apart from blank lines. What is *not* in the
+repository is the MUIO **project workspace** itself (the interface's own database of
+sets, parameters and scenarios) - that is available from the authors on request (see
+the author list in {doc}`references`). Running `model.v.5.4.txt` with GLPK as
+described below is the equivalent command-line route and needs no MUIO
+installation.
 ```
 
 ## 5.4 Running a scenario
