@@ -129,7 +129,5 @@ table in the repository README) and the associated article:
 
 ```{admonition} DOI
 :class: note
-The Zenodo DOI for the model version documented here is listed in the repository
-README version table. Replace the placeholder there once the version-2 archive is
-minted.
+The Zenodo DOI for the model version documented here is listed in the repository README version table. 
 ```
