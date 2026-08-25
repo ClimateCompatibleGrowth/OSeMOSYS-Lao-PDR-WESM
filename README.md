@@ -31,7 +31,7 @@ OSeMOSYS-Lao-PDR-WESM/
 
 | Version | Date    | DOI | Description |
 | ------- | ------- | --- | ----------- |
-| **2.0.0** | 08/2026 | [![DOI](https://zenodo.org/badge/1198325176.svg)](https://doi.org/10.5281/zenodo.22088249) | Whole-energy-system model regenerated from the latest run; adds transport, industrial heat and cooking, the 3x3x3 Trade x Carbon x Cooking scenario matrix, and household-air-pollution (DALY) accounting. |
+| **Lao-WESM 1.0** | 08/2026 | [![DOI](https://zenodo.org/badge/1198325176.svg)](https://doi.org/10.5281/zenodo.22088249) | Whole-energy-system model regenerated from the latest run; adds transport, industrial heat and cooking, the 3x3x3 Trade x Carbon x Cooking scenario matrix, and household-air-pollution (DALY) accounting. |
 
 ## Data and model files
 
